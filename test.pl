@@ -7,7 +7,7 @@
 
 use Test;
 BEGIN { plan tests => 1 };
-use XML::Parser::CDB2IMP;
+use XML::Parser::YahooRESTGeocode;
 ok(1); # If we made it this far, we're ok.
 
 #########################

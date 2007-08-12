@@ -13,7 +13,7 @@ package XML::Parser::YahooRESTGeocode;
 use 5.6.0;
 use Carp;
 
-$VERSION = 0.1;
+$VERSION = 0.2;
 
 #register with XML::Parser as built in style
 $XML::Parser::Built_In_Styles{YahooRESTGeocode} = 1;
